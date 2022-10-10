@@ -14,11 +14,11 @@ A three-dimensional scalar field can be specified as a txt file or a DICOM file 
 The following images are obtained by running this implementation obtained from the MRI scan of the human brain.
 
 **1. Extraction of Tissue Surface at isovalue 255**
-![Tissue Surface Constrcution](/results/Tissue Surface Construction)
+![Tissue Surface Constrcution](results/Tissue Surface Construction.png)
 
 
 **2. Extraction of Bone Surface at isovalue 1500**
-![Bone Surface Constrcution](/results/Bone Surface Construction)
+![Bone Surface Constrcution](results/Bone Surface Construction.png)
 
 
 ### References
