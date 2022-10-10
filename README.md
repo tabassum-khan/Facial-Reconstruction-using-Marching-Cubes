@@ -5,23 +5,23 @@ The Marching Cubes algorithm is a computer graphics algorithm to extract a polyg
 
 A three-dimensional scalar field can be specified as a txt file or a DICOM file and the triangular mesh is obtained using MATLAB meshgrid() in this implementation.
 
-### Usage
+## Usage
 - This project contains only 2 files: ```main.m``` and ```MarchingCubes.m```
 - For visualisation and image processing, install Image Processing Toolbox from MathWorks.
 - Run the ```main.m``` in MATLAB.
 
-### Demo
+## Demo
 The following images are obtained by running this implementation obtained from the MRI scan of the human brain.
 
-**1. Extraction of Tissue Surface at isovalue 255**
-![Tissue Surface Constrcution](results/Tissue Surface Construction.png)
+### 1. Extraction of Tissue Surface at isovalue 255
+![Tissue Surface Constrcution](https://github.com/tabassum-khan/Facial-Reconstruction-using-Marching-Cubes/blob/main/results/Tissue%20Surface%20Constrcution.png)
 
 
-**2. Extraction of Bone Surface at isovalue 1500**
-![Bone Surface Constrcution](results/Bone Surface Construction.png)
+### 2. Extraction of Bone Surface at isovalue 1500
+![Bone Surface Constrcution](https://github.com/tabassum-khan/Facial-Reconstruction-using-Marching-Cubes/blob/main/results/Bone%20Surface%20Contsruction.png))
 
 
-### References
+## References
 [1] **Marching Cubes by Peter Hammer**: [Implementation of Marching Cubes in MATLAB](https://in.mathworks.com/matlabcentral/fileexchange/32506-marching-cubes)
 
 [2] **A COMPUTER APPLICATION FOR 3D CRANIOFACIAL RECONSTRUCTION AND AUTOMATIC SKULL-PHOTO IDENTIFICATION**
