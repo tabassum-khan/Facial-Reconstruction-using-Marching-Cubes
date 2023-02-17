@@ -10,6 +10,9 @@ A three-dimensional scalar field can be specified as a txt file or a DICOM file 
 - For visualisation and image processing, install Image Processing Toolbox from MathWorks.
 - Run the ```main.m``` in MATLAB.
 
+## Published Paper
+[IJCR - Forensic facial reconstruction using Marching Cubes](http://www.journalcra.com/article/forensic-facial-reconstruction-using-marching-cubes)
+
 ## Demo
 The following images are obtained by running this implementation obtained from the MRI scan of the human brain.
 
